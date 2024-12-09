@@ -14,4 +14,4 @@ PS - This is just a base you can add rootkit and stuff by yourself.
 
 **This might be sigged as its old source but hardly takes few fixes to get it up running.**
 
-![Imgur Image]((https://i.imgur.com/9xGoPWq.png))
+![Imgur Image](https://i.imgur.com/9xGoPWq.png)
