@@ -6,7 +6,8 @@ What's different from Phantom?
 * Basic Startup method. || Task scheduler?
 * 0.5~1ms popup appear time.
 * Very Silent.
-* THe crypting engine inside is called BadEncoder.
+* The crypting engine inside is called BadEncoder.
+
 PS - This is just a base you can add rootkit and stuff by yourself.
 
 **This might be sigged as its old source but hardly takes few fixes to get it up running.**
