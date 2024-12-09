@@ -3,7 +3,7 @@ What's different from Phantom?
 * Supports only .NET payloads for now. || Change to Multi-support?
 * The Bat obfuscation doesn't read from ps1 code from itself rather stores on a temp server i.e. internet connection mandatory.
 * No AMSI bypass for now(A TODO) || Add a patchless method? like hooks
-* Basic Startup method. || Task scheduler?
+* Basic Startup method([System.Environment]::GetFolderPath([System.Environment+SpecialFolder]::ApplicationData)). || Use Task scheduler?
 * 0.5~1ms popup appear time.
 * Very Silent.
 * The crypting engine inside is called BadEncoder.
