@@ -1,0 +1,10 @@
+C:\Users\ufuy\Documents\New folder\PhantomX\obj\Debug\PhantomX.csproj.AssemblyReference.cache
+C:\Users\ufuy\Documents\New folder\PhantomX\obj\Debug\PhantomX.BadEncoder.Form1.resources
+C:\Users\ufuy\Documents\New folder\PhantomX\obj\Debug\PhantomX.BadEncoder.Properties.Resources.resources
+C:\Users\ufuy\Documents\New folder\PhantomX\obj\Debug\PhantomX.csproj.GenerateResource.cache
+C:\Users\ufuy\Documents\New folder\PhantomX\obj\Debug\PhantomX.csproj.CoreCompileInputs.cache
+C:\Users\ufuy\Documents\New folder\PhantomX\bin\Debug\BadEncoder.exe.config
+C:\Users\ufuy\Documents\New folder\PhantomX\bin\Debug\BadEncoder.exe
+C:\Users\ufuy\Documents\New folder\PhantomX\bin\Debug\BadEncoder.pdb
+C:\Users\ufuy\Documents\New folder\PhantomX\obj\Debug\BadEncoder.exe
+C:\Users\ufuy\Documents\New folder\PhantomX\obj\Debug\BadEncoder.pdb
