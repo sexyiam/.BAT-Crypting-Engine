@@ -10,7 +10,7 @@ What's different from Phantom?
 
 PS - This is just a base you can add rootkit and stuff by yourself.
 
-**No code of Phantomw as referenced here. I just like the name**
+**No code of Phantom code was referenced here. I just like the name**
 
 **This might be sigged as its old source but hardly takes few fixes to get it up running.**
 
